@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: accounts
-        image: dangngocsoncntt/accounts:46
+        image: dangngocsoncntt/accounts:49
         ports:
         - containerPort: 29910
         env:
